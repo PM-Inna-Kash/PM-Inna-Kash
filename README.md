@@ -26,5 +26,10 @@ If you need an expert to help you ship AI products faster:
 - **Email:** [hello@inna-kashtanova.com](mailto:hello@inna-kashtanova.com)
 - **LinkedIn:** [pminnaka](https://www.linkedin.com/in/pminnaka/)
 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PM-Inna-Kash&show_icons=true&theme=tokyonight" alt="Inna's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PM-Inna-Kash&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
 ---
 *Open Work Permit holder | Ready for high-impact Fractional or Full-time roles in Canada.*
