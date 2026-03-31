@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Inna! 👋 
 
-<!--
-**PM-Inna-Kash/PM-Inna-Kash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇨🇦 Fractional Product & AI Lead | Based in Canada
+**Bridging the gap between AI hype and business operational reality.**
 
-Here are some ideas to get you started:
+I specialize in paying off "Management Debt" by replacing ad-hoc heroism with predictable, AI-driven systems. I don't just manage roadmaps; I build the tools to execute them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+**[AI Readiness Assessment Tool](https://github.com/PM-Inna-Kash/ai-readiness-assessment)**
+*An MVP built in 16 hours to help organizations identify high-ROI AI automation areas.*
+- **Tech Stack:** Next.js, Gemini API, Supabase, Tailwind.
+- **Key Outcome:** Reduces project discovery time from weeks to 3 minutes.
+
+---
+
+### 🛠 My Focus
+- **AI Strategy & Implementation:** Identifying where GenAI actually moves the needle for SaaS teams.
+- **Rapid Prototyping:** Validating product hypotheses in days, not months.
+- **Operational Excellence:** Scaling delivery through automated SOPs.
+
+### 📅 Get in Touch
+If you need an expert to help you ship AI products faster:
+- **[Schedule a Discovery Call](https://calendar.app.google/uYpMS3rU2zj5Rews5)** (Google Calendar)
+- **Email:** [hello@inna-kashtanova.com](mailto:hello@inna-kashtanova.com)
+- **LinkedIn:** [pminnaka](https://www.linkedin.com/in/pminnaka/)
+
+---
+*Open Work Permit holder | Ready for high-impact Fractional or Full-time roles in Canada.*
