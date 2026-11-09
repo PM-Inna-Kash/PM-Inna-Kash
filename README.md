@@ -1,48 +1,43 @@
-# Hi there, I'm Inna! 👋 
+# Hi, I'm Inna Kash 👋
 
-### 🇨🇦 Fractional Product & AI Lead | Based in Canada
-**Bridging the gap between AI hype and business operational reality.**
+### Telegram Bots · API Integrations · AI Automation · Product Delivery
 
-I specialize in paying off "Management Debt" by replacing ad-hoc heroism with predictable, AI-driven systems. I don't just manage roadmaps; I build the tools to execute them.
+I help businesses **turn repetitive work and disconnected data into practical automated workflows** — from a focused Telegram bot to an API-connected reporting or AI-assisted system.
 
----
+I combine product and project management with hands-on automation design, implementation and QA. The goal is a working solution, not another AI slide deck.
 
-### 🤖 Live Automation Demo
+### 🤖 Try my live Telegram demo
 
-**[Try Inna's Telegram Automation Assistant](https://t.me/Inna_Automation_2026_bot)**
+**[Open Inna's Automation Assistant in Telegram](https://t.me/Inna_Automation_2026_bot)**
 
-A bilingual (English/Russian) assistant that helps visitors clarify an automation request in **up to five questions**, recommends a relevant next step, and sends a brief only with the visitor's consent.
+See two real workflows in one bot:
 
-- **Stack:** Telegram Bot API, Cloudflare Workers, Cloudflare D1.
-- **Engineering:** stateful conversations, webhook verification, update deduplication, rate limiting and data-retention controls.
-- **My contribution:** process design, scope, product decisions, acceptance scenarios and QA, with AI-assisted implementation.
-- **Status:** public demonstration, not a client-commissioned project.
+- **Lead intake:** a short bilingual (English/Russian) questionnaire clarifies a business request; a brief is forwarded only with the visitor's consent.
+- **API + AI demo:** the bot retrieves published Bitcoin and S&P 500 data from external APIs, compares their 30-day movement on a chart, and presents an AI-generated factual summary based on those calculated values.
 
----
+**Behind the demo:** Telegram Bot API · Cloudflare Workers · D1 · Workers AI · external data APIs · automated scheduled refresh.
 
-### 🚀 Featured Project
-**[AI Readiness Assessment Tool](https://github.com/PM-Inna-Kash/ai-readiness-assessment)**
-*An MVP built in 16 hours to help organizations identify high-ROI AI automation areas.*
-- **Tech Stack:** Next.js, Gemini API, Supabase, Tailwind.
-- **Key Outcome:** Reduces project discovery time from weeks to 3 minutes.
+*This is a portfolio demonstration, not a client project or an investment recommendation. Market-data snapshots reflect their latest available trading date.*
 
----
+### 🛠 What I can build for you
 
-### 🛠 My Focus
-- **AI Strategy & Implementation:** Identifying where GenAI actually moves the needle for SaaS teams.
-- **Rapid Prototyping:** Validating product hypotheses in days, not months.
-- **Operational Excellence:** Scaling delivery through automated SOPs.
+- **Telegram bots:** customer intake, FAQs, lead qualification, notifications and internal tools.
+- **API integrations:** connect services, synchronize data and eliminate repetitive manual steps.
+- **AI-assisted workflows:** structured analysis, summaries, reporting and business-process automation.
+- **MVPs & product delivery:** discovery, requirements, implementation coordination, testing and rollout.
 
-### 📅 Get in Touch
-If you need an expert to help you ship AI products faster:
-- **[Schedule a Discovery Call](https://calendar.app.google/uYpMS3rU2zj5Rews5)** (Google Calendar)
-- **Email:** [hello@inna-kashtanova.com](mailto:hello@inna-kashtanova.com)
-- **LinkedIn:** [pminnaka](https://www.linkedin.com/in/pminnaka/)
+Your use case can involve **sales, CRM, inventory, operations, service delivery or other business data**.
 
-  ### 📊 GitHub Activity
-![Stats](https://img.shields.io/github/followers/PM-Inna-Kash?label=Followers&style=for-the-badge&color=2ecc71)
-![Stars](https://img.shields.io/github/stars/PM-Inna-Kash/ai-readiness-assessment?style=for-the-badge&color=f1c40f)
-![Top Language](https://img.shields.io/github/languages/top/PM-Inna-Kash/ai-readiness-assessment?style=for-the-badge&color=3498db)
+### 📌 Selected work
 
----
-*Open Work Permit holder | Ready for high-impact Fractional or Full-time roles in Canada.*
+**[Live Telegram Automation Assistant](https://t.me/Inna_Automation_2026_bot)** — public, bilingual automation demo using APIs, a scheduled data pipeline and AI analysis.
+
+**[AI Readiness Assessment](https://github.com/PM-Inna-Kash/ai-readiness-assessment)** — an MVP for identifying and prioritizing opportunities to apply AI automation.
+
+### 📬 Let's talk about your workflow
+
+Tell me **what your team repeats, what data you need, or what process you want to automate**. I can help define a realistic scope and build the solution.
+
+[Website](https://inna-kashtanova.com/) · [LinkedIn](https://www.linkedin.com/in/pminnaka/) · [Email](mailto:hello@inna-kashtanova.com)
+
+**Upwork track record:** $100K+ earned · 100% Job Success Score *(November 2026 snapshot).*
