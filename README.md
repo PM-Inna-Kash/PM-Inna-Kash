@@ -7,6 +7,19 @@ I specialize in paying off "Management Debt" by replacing ad-hoc heroism with pr
 
 ---
 
+### 🤖 Live Automation Demo
+
+**[Try Inna's Telegram Automation Assistant](https://t.me/Inna_Automation_2026_bot)**
+
+A bilingual (English/Russian) assistant that helps visitors clarify an automation request in **up to five questions**, recommends a relevant next step, and sends a brief only with the visitor's consent.
+
+- **Stack:** Telegram Bot API, Cloudflare Workers, Cloudflare D1.
+- **Engineering:** stateful conversations, webhook verification, update deduplication, rate limiting and data-retention controls.
+- **My contribution:** process design, scope, product decisions, acceptance scenarios and QA, with AI-assisted implementation.
+- **Status:** public demonstration, not a client-commissioned project.
+
+---
+
 ### 🚀 Featured Project
 **[AI Readiness Assessment Tool](https://github.com/PM-Inna-Kash/ai-readiness-assessment)**
 *An MVP built in 16 hours to help organizations identify high-ROI AI automation areas.*
