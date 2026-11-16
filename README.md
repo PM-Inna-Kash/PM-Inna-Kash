@@ -12,8 +12,8 @@ I combine product and project management with hands-on automation design, implem
 
 See two real workflows in one bot:
 
-- **Lead intake:** a short bilingual (English/Russian) questionnaire clarifies a business request; a brief is forwarded only with the visitor's consent.
-- **API + AI demo:** the bot retrieves published Bitcoin and S&P 500 data from external APIs, compares their 30-day movement on a chart, and presents an AI-generated factual summary based on those calculated values.
+- **Lead intake:** a short bilingual (English/Russian) questionnaire clarifies a business request; the workflow is designed to collect consent before any lead handoff (end-to-end delivery not independently verified).
+- **API + AI demo:** the demo presents a cached comparison of published Bitcoin and S&P 500 data, a 30-day chart, and an AI-generated summary based on the calculated values.
 
 **Behind the demo:** Telegram Bot API · Cloudflare Workers · D1 · Workers AI · external data APIs · automated scheduled refresh.
 
