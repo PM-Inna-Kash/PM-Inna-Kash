@@ -1,5 +1,7 @@
 # Telegram Automation Assistant — portfolio case
 
+[Русская версия](telegram-automation-case-ru.md)
+
 **Status (18 November 2026):** Public Telegram demo available; individual features have different verification levels. This is a self-directed portfolio project, **not a commissioned client delivery**.
 
 **Try:** [Open the Telegram bot](https://t.me/Inna_Automation_2026_bot) and send `/demo` (market comparison), `/about` (overview), or `/start` (bilingual intake).
