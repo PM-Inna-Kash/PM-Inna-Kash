@@ -32,7 +32,7 @@ Your use case can involve **sales, CRM, inventory, operations, service delivery 
 
 ### 📌 Selected work
 
-**[Live Telegram Automation Assistant](https://t.me/Inna_Automation_2026_bot)** — public, bilingual automation demo using APIs, a scheduled data pipeline and AI analysis.
+**[Telegram Automation Assistant — case study](https://github.com/PM-Inna-Kash/PM-Inna-Kash/blob/main/portfolio/telegram-automation-case.md)** — documented architecture, live demo entry point, verified evidence and explicit release limitations.
 
 **[AI Readiness Assessment](https://github.com/PM-Inna-Kash/ai-readiness-assessment)** — an MVP for identifying and prioritizing opportunities to apply AI automation.
 
