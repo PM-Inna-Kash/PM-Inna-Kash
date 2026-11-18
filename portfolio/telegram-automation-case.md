@@ -24,6 +24,17 @@ Small teams often need to collect structured requests, connect external data and
 - No verified customer revenue, lead-conversion metrics, sales uplift or production SLA are claimed.
 - Market comparisons are illustrative, **not investment advice**. Correlation is not evidence of prediction or causation.
 
+## What a prospective client can verify
+
+| Check | How to evaluate | Evidence status |
+| --- | --- | --- |
+| Market-data demonstration | Open the bot and send `/demo`; inspect the dated BTC/S&P 500 chart and narrative | Previously observed in real Telegram; current response not retested |
+| Product overview | Send `/about` and inspect the displayed profile links | Previously observed in a real Telegram screenshot |
+| Bilingual intake | Send `/start` and review the five-question workflow and consent step | Implemented in source; full current live journey not independently accepted |
+| NYC Rat Index | Send `/rats` only after the corrected bundle is deployed and the cache is populated | **Not accepted live** |
+
+The demonstration does not require a prospective client to share confidential business information. For a paid engagement, acceptance criteria, data handling, external API terms and ongoing operating costs would be agreed before implementation.
+
 ## Transferable client deliverables
 
 Discovery and acceptance criteria; bot conversation design; API integration; cached data pipeline; failure handling; QA and handover. Payment integrations, third-party APIs and legal/compliance requirements must be scoped separately.
