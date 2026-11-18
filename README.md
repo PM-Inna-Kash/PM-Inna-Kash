@@ -8,7 +8,7 @@ I combine product and project management with hands-on automation design, implem
 
 ### 🤖 Try my live Telegram demo
 
-**[Open Inna's Automation Assistant in Telegram](https://t.me/Inna_Automation_2026_bot?start=portfolio)**
+**[Open Inna's Automation Assistant in Telegram](https://t.me/Inna_Automation_2026_bot)**
 
 In Telegram, send **`/demo`** to view the market-data demonstration, **`/about`** for project details, or **`/start`** to begin the bilingual intake. No account or external sign-up is needed beyond Telegram itself.
 
