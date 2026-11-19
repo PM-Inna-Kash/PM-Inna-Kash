@@ -34,6 +34,8 @@ Your use case can involve **sales, CRM, inventory, operations, service delivery 
 
 **[Telegram Automation Assistant — case study](https://github.com/PM-Inna-Kash/PM-Inna-Kash/blob/main/portfolio/telegram-automation-case.md)** — documented architecture, live demo entry point, verified evidence and explicit release limitations.
 
+[Русская версия кейса](https://github.com/PM-Inna-Kash/PM-Inna-Kash/blob/main/portfolio/telegram-automation-case-ru.md) · [Scoped Telegram/API automation service offer](https://github.com/PM-Inna-Kash/PM-Inna-Kash/blob/main/portfolio/telegram-api-automation-service.md)
+
 **[AI Readiness Assessment](https://github.com/PM-Inna-Kash/ai-readiness-assessment)** — an MVP for identifying and prioritizing opportunities to apply AI automation.
 
 ### 📬 Let's talk about your workflow
